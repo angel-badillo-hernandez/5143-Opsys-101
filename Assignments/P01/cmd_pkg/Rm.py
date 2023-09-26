@@ -5,7 +5,6 @@ from glob import glob
 from .TockenizeFlags import tockenizeFlags
 from .InvalidFlagsMsg import invalidFlagsMsg
 
-# TODO: Needs to implement "*" wildcard thing....
 rm_flags:set[str] = {
     "--help",
     "-r"

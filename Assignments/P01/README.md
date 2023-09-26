@@ -2,9 +2,9 @@
 
 Due date: 09/25/2023
 
-### Authors: 
-#### - [Leslie Cook](https://github.com/Leslie-N-Cook)
+### Authors:
 #### - [Angel Badillo](https://github.com/It-Is-Legend27)
+#### - [Leslie Cook](https://github.com/Leslie-N-Cook)
 
 ### Overview:
 
